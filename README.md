@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering Student at Insper.🦊
 
-🌱 Learning Java, Python, Javascript, HTML, CSS, Data Science, Computational Vision, Bug Bounty.
+🌱 Learning Java, Python, Javascript, HTML, CSS, Clojure, Data Science, Computational Vision and Bug Bounty.
 
 ❤  I love entrepreneurship, communication, new technologies and make videos.
 
