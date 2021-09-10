@@ -1,4 +1,4 @@
-### Hi! I am Lister! 👋
+### Hi! I'm Lister! 👋
 
 I'm a Computer Engineering Student at Insper.🦊
 
