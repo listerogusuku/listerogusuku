@@ -6,7 +6,11 @@ I'm a Computer Engineering Student at Insper.🦊
 
 ❤  I love entrepreneurship, communication, new technologies and make videos.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=listerogusuku&theme=tokyonight)
+
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=listerogusuku&theme=tokyonight) -->
+
+
 
 <div>
   
