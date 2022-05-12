@@ -1,8 +1,8 @@
 ### Hi! I'm Lister! 👋
 
 I'm a Computer Engineering Student at Insper.🦊
-
-🌱 Learning Java, Python, Javascript, HTML, CSS, Clojure, Data Science, Computational Vision and Bug Bounty.
+<!-- 
+🌱 Learning Java, Python, Javascript, HTML, CSS and React. -->
 
 ❤  I love entrepreneurship, communication, new technologies and make videos.
 
